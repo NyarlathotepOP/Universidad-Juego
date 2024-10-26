@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # SolarGame
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
@@ -35,3 +36,6 @@ For example, `core:clean` removes `build` folder only from the `core` project.
 =======
 # Universidad-Juego
 >>>>>>> 016be8b (Initial commit)
+=======
+
+>>>>>>> 74ef4db (Update README.md)
